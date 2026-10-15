@@ -1,0 +1,31 @@
+{
+  "name": "godot-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) Server for Godot Engine 4.x with Ollama & LLM integration",
+  "main": "src/server.js",
+  "type": "module",
+  "bin": {
+    "godot-mcp": "./src/server.js",
+    "godot-ollama": "./ollama-agent.js"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "ollama": "node ollama-agent.js",
+    "test": "node test/test-server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.2"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "godot",
+    "godot4",
+    "ollama",
+    "gamedev",
+    "llm"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

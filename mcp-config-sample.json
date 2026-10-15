@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "godot-mcp": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\Shiro\\.gemini\\antigravity-ide\\scratch\\godot-mcp\\src\\server.js"
+      ],
+      "env": {
+        "GODOT_PROJECT_PATH": "C:\\Ruta\\A\\Tu\\Proyecto\\Godot",
+        "GODOT_PATH": "godot"
+      }
+    }
+  }
+}
