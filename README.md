@@ -87,7 +87,7 @@ Puedes registrar este servidor en tu archivo de configuración de MCP (por ejemp
 
 Si deseas sincronización bidireccional en tiempo real mientras el editor de Godot está abierto:
 
-1. Copia la carpeta `addons/godot_mcp_bridge` a la carpeta `addons/` de tu proyecto de Godot.
+1. Copia la carpeta `addons/godot_mcp` a la carpeta `addons/` de tu proyecto de Godot.
 2. Abre tu proyecto en Godot Engine.
 3. Ve a **Proyecto > Configuración del Proyecto > Plugins** (Project Settings > Plugins).
 4. Activa la casilla de **Godot MCP Bridge**.
