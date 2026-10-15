@@ -70,7 +70,7 @@ Puedes registrar este servidor en tu archivo de configuración de MCP (por ejemp
     "godot-mcp": {
       "command": "node",
       "args": [
-        "C:\\Users\\Shiro\\.gemini\\antigravity-ide\\scratch\\godot-mcp\\src\\server.js"
+        "C:\\Users\\Tuusuario\\.gemini\\antigravity-ide\\scratch\\godot-mcp\\src\\server.js"
       ],
       "env": {
         "GODOT_PROJECT_PATH": "C:\\Ruta\\A\\Tu\\Proyecto\\Godot",
